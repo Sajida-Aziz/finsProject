@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17616" started-at="2023-07-14T12:52:46Z" finished-at="2023-07-14T12:53:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17616" started-at="2023-07-14T12:52:46Z" finished-at="2023-07-14T12:53:04Z">
+      <class name="testPages.TestLoginPage">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testPages.TestLoginPage@27c20538]" name="beforeTest" is-config="true" duration-ms="10750" started-at="2023-07-14T16:52:46Z" finished-at="2023-07-14T16:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="invalidIndiaLogin()[pri:0, instance:testPages.TestLoginPage@27c20538]" name="invalidIndiaLogin" duration-ms="6742" started-at="2023-07-14T16:52:57Z" finished-at="2023-07-14T16:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidIndiaLogin -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testPages.TestLoginPage@27c20538]" name="verifyTitle" duration-ms="3" started-at="2023-07-14T16:53:03Z" finished-at="2023-07-14T16:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testPages.TestLoginPage@27c20538]" name="afterTest" is-config="true" duration-ms="108" started-at="2023-07-14T16:53:03Z" finished-at="2023-07-14T16:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testPages.TestLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
